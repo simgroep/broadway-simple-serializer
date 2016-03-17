@@ -1,0 +1,24 @@
+{
+  "name": "simgroep/broadway-simple-serializer",
+  "description": "Simple serializer for Broadway",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Simgroep\\BroadwaySimpleSerializer\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "Richard van den Brand",
+      "email": "richard@vandenbrand.org"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
