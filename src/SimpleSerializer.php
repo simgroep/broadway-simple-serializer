@@ -2,7 +2,7 @@
 
 namespace Simgroep\BroadwaySimpleSerializer;
 
-use Broadway\Serializer\SerializerInterface;
+use Broadway\Serializer\Serializer as SerializerInterface;
 use Symfony\Component\Serializer\Serializer;
 use Symfony\Component\Serializer\Normalizer\ObjectNormalizer;
 
